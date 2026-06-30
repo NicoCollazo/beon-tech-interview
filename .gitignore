@@ -1,2 +1,25 @@
+# Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
 .env
-venv
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing and coverage
+.pytest_cache/
+htmlcov/
+.coverage
